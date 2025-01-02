@@ -29,7 +29,7 @@
     <!-- preloader starts -->
     <div class="dtr-preloader">
         <div class="dtr-preloader-inner">
-            <div class="dtr-loader">Loading...</div>
+            <div class="dtr-loader">Cargando...</div>
         </div>
     </div>
     <!-- preloader ends -->
@@ -60,10 +60,10 @@
             <div class="dtr-header-left">
 
                 <!-- logo -->
-                <a class="logo-default dtr-scroll-link" href="#home"><img src="<?=base_url('public/assets/images/logo-light.png');?>" alt="logo"></a>
+                <a class="logo-default dtr-scroll-link" href="#home"><img src="<?=base_url('public/assets/images/logo-w.png');?>" width="250" alt="logo"></a>
 
                 <!-- logo on scroll -->
-                <a class="logo-alt dtr-scroll-link" href="#home"><img src="<?=base_url('public/assets/images/logo-dark.png');?>" alt="logo"></a>
+                <a class="logo-alt dtr-scroll-link" href="#home"><img src="<?=base_url('public/assets/images/logo.png');?>" width="250" alt="logo"></a>
                 <!-- logo on scroll ends -->
 
             </div>
@@ -265,8 +265,8 @@
             <div class="container">
 
                 <!-- heading -->
-                <p class="dtr-tagline text-center color-red">Digital Marketing Services</p>
-                <h2 class="dtr-section-heading text-center">Ways to reach your target audience online</h2>
+                <p class="dtr-tagline text-center color-red">Servicios</p>
+                <h2 class="dtr-section-heading text-center"></h2>
 
                 <!--== row starts ==-->
                 <div class="row dtr-mt-40 dtr-mx-0">
@@ -298,7 +298,7 @@
                     <!-- feature 3 starts -->
                     <div class="col-md-4 col-xl dtr-px-0">
                         <div class="dtr-feature dtr-icon-feature dtr-feature-top dtr-box-feature">
-                            <div class="dtr-feature-img"><img src="<?=base_url('public/assets/images/service-icon-3.svg')?>" alt="image"></div>
+                            <div class="dtr-feature-img"><img src="<?=base_url('public/assets/images/service-icon-3.svg');?>" alt="image"></div>
                             <div class="dtr-feature-content">
                                 <h5>Display<br>
                                     Advertising</h5>
@@ -311,7 +311,7 @@
                     <!-- feature 4 starts -->
                     <div class="col-md-6 col-xl dtr-px-0">
                         <div class="dtr-feature dtr-icon-feature dtr-feature-top dtr-box-feature">
-                            <div class="dtr-feature-img"><img src="<?=base_url('public/assets/images/service-icon-4.svg')?>" alt="image"></div>
+                            <div class="dtr-feature-img"><img src="<?=base_url('public/assets/images/service-icon-4.svg');?>" alt="image"></div>
                             <div class="dtr-feature-content">
                                 <h5>Search Engine Optimisation</h5>
                                 <p>Lorem ipsum dolor sit amet piscing elit sed do eiusmod tempor.</p>
@@ -323,7 +323,7 @@
                     <!-- feature 5 starts -->
                     <div class="col-md-6 col-xl dtr-px-0">
                         <div class="dtr-feature dtr-icon-feature dtr-feature-top dtr-box-feature">
-                            <div class="dtr-feature-img"><img src="<?=base_url('public/assets/images/service-icon-5.svg')?>" alt="image"></div>
+                            <div class="dtr-feature-img"><img src="<?=base_url('public/assets/images/service-icon-5.svg');?>" alt="image"></div>
                             <div class="dtr-feature-content">
                                 <h5>Email<br>
                                     Marketing</h5>
@@ -746,7 +746,7 @@
                     <div class="col-12 col-md-6 offset-md-1 small-device-space">
                         <h4>We’re passionate about helping local businesses to grow online.</h4>
                         <p>Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas culpa qui officia deserunt accumsan.</p>
-                        <p><a href="#" class="dtr-btn dtr-btn-rounded btn-red-outline dtr-mt-20 dtr-mr-10"><i class="icon-phone-alt"></i>090 123 4567</a> <a href="#" class="dtr-btn dtr-btn-rounded btn-red-transparent dtr-mt-20"><i class="icon-envelope-open"></i>sales@example.com</a> </p>
+                        <p><a href="#" class="dtr-btn dtr-btn-rounded btn-red-outline dtr-mt-20 dtr-mr-10"><i class="icon-phone-alt"></i>PTY +507 6430 6815</a> <a href="#" class="dtr-btn dtr-btn-rounded btn-red-transparent dtr-mt-20"><i class="icon-envelope-open"></i>support@servicioshm.com</a> </p>
 
                         <!-- nested row for offset column starts -->
                         <div class="row dtr-mt-100">
@@ -782,7 +782,7 @@
                                     </form>
                                     <!-- form ends -->
 
-                                    <p class="text-size-sm color-white dtr-mt-10">*Your information is protected by Skwirel’s <a href="#" class="text-decoration-underline">Privacy Policy</a>.</p>
+                                    <p class="text-size-sm color-white dtr-mt-10">*Tu información es protegida por la <a href="#" class="text-decoration-underline">política de privacidad</a> Servicios HM .</p>
                                 </div>
                                 <!-- box ends -->
 
@@ -819,7 +819,7 @@
                 <!--== column 1 ends ==-->
 
                 <!--== column 2 starts ==-->
-                <div class="col-12 col-md-4 small-device-space text-center"> <a class="dtr-scroll-link" href="#home"><img src="<?=base_url('public/assets/images/logo-light.png');?>" alt="logo"></a> </div>
+                <div class="col-12 col-md-4 small-device-space text-center"> <a class="dtr-scroll-link" href="#home"><img src="<?=base_url('public/assets/images/logo-w.png');?>" width="250" alt="logo"></a> </div>
                 <!--== column 2 ends ==-->
 
                 <!--== column 3 starts ==-->
